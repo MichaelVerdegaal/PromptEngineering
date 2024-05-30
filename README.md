@@ -1,7 +1,6 @@
-# QuickTemplate
+# PromptEngineering
 
-A python template to quickly start a new project. Comes with jupyter notebooks and a 
-pre-commit config pre-provided.
+This project is for the purpose of practicing prompt engineering techniques, and how they affect LLM outputs.
 
 ## Installation
 
